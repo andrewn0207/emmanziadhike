@@ -1,0 +1,28 @@
+
+html{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-decoration: underline;
+    
+    
+}
+p{
+    color: white;
+  
+}
+.emman-img{
+  width: 55%;
+  height: 50%;
+  border: 5px solid white;
+  
+    
+}
+.poster{
+    margin: auto;
+    width: 55%;
+    text-align: center;
+    
+     
+}   
