@@ -12,10 +12,11 @@ a {
     color: white;
     display: block;
     text-align: center;
+    text-decoration: wavy;
 
 }
 .emman-img{
-  top: 30px;
+  top: 50px;
   width: 55%;
   height: 50%;
   border: 5px solid white;
