@@ -2,16 +2,13 @@
 html{
     background-color: black;
 }
-h1{
+a{
     color: white;
     text-decoration: underline;
     
     
 }
-a{
-    color: white;
-  
-}
+
 .emman-img{
   width: 55%;
   height: 50%;
